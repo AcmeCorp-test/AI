@@ -164,7 +164,6 @@ wrapt==1.14.1
 zipp==3.11.0
 matplotlib==3.*
 seaborn==0.10.1
-# Default
 hyperopt==0.2.7
 ipywidgets>=8
 matplotlib==3.7.1
