@@ -3,7 +3,7 @@ opencv-python
 scikit-image 
 optuna 
 torchvision
-xarray
+xarray  
 netcdf4 
 jupyter 
 jupyter-book
