@@ -5,7 +5,7 @@ optuna
 torchvision
 xarray
 netcdf4
-jupyter
+jupyter 
 jupyter-book
 ghp-import
 tornado
